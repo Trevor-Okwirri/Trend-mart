@@ -1,4 +1,4 @@
-# shopcom
+# TRENDMART
 
 A new Flutter project.
 
